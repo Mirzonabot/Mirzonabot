@@ -2,21 +2,25 @@
 
 ## Contact Information
 
-**Email**: johndoe@example.com  
-**LinkedIn**: [JohnDoe](https://www.linkedin.com/in/johndoe)
+**Email**: mirzonabot.mirzonabotov99@gmail.com
+**LinkedIn**: [JohnDoe](https://www.linkedin.com/in/mirzonabot-m-407a26180/)
 
 ## About Me
 
-Highly motivated and professional software developer with over 5 years of experience. Specializing in full stack development and passionate about creating efficient and effective solutions.
+Highly motivated and professional software developer. Specializing in full stack development and ML Engineer and passionate about creating efficient and effective solutions.
 
 ## Skills
 
 - Full Stack Web Development
-- Agile Methodologies
 - Test-Driven Development
 - Python, Java, JavaScript
-- Frameworks: Django, Spring, React.js
+- Frameworks: Django, Spring, Flask, FastAPI,
+- Frontend: HTML, CSS, Bootsrtap, and Tailwind
+- Data Science: Pandas, Numpy,Scipy, Matplotlib,Seaborn,Statsmodels
 - Databases: MySQL, PostgreSQL, MongoDB
+- Redis
+- Machine learning and deep learning: Scikit-Learn, Tensorflow, Keras, and Pytorch
+
 
 ## Work Experience
 
