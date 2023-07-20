@@ -3,7 +3,7 @@
 ## Contact Information
 
 **Email**: mirzonabot.mirzonabotov99@gmail.com
-**LinkedIn**: [JohnDoe](https://www.linkedin.com/in/mirzonabot-m-407a26180/)
+**LinkedIn**: [Mirzonabot](https://www.linkedin.com/in/mirzonabot-m-407a26180/)
 
 ## About Me
 
