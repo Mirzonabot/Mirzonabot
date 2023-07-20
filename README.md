@@ -1,4 +1,4 @@
-# John Doe
+# Mirzonabot
 
 ## Contact Information
 
