@@ -27,17 +27,7 @@ Highly motivated and professional software developer. Specializing in full stack
 - Competitive Programming: **Leetcode** [click here](https://leetcode.com/mirzonabot/), **Codeforce** [click here](https://codeforces.com/profile/Mirzonabot)
 
 
-## Work Experience
 
-### Full Stack Developer at XYZ Company
-**January 2020 - Present**
-- Lead a team of developers in a fast-paced environment
-- Oversaw the development and maintenance of 10+ web applications
-
-### Junior Developer at ABC Corp.
-**July 2017 - December 2019**
-- Developed and maintained web applications in Java and Python
-- Assisted in the transition from a traditional development model to Agile methodologies
 
 ## Education
 
