@@ -18,13 +18,16 @@ Highly motivated and professional software developer. Specializing in full stack
 - Frameworks: Django, Spring, Flask, FastAPI,
 - Frontend: HTML, CSS, Bootsrtap, and Tailwind
 - Data Science: Pandas, Numpy,Scipy, Matplotlib,Seaborn,Statsmodels
+- **Kaggle** [click here](https://www.kaggle.com/mirzonabot)
 - Machine learning and deep learning: Scikit-Learn, Tensorflow, Keras, and Pytorch
 - Image processing: OpenCV, PIL, Scikit-Image
 - Databases: MySQL, PostgreSQL, MongoDB
 - Redis
 - Cloud: AWS, heroku
 - Version Control: Git, GitHub, GitLab
-- Competitive Programming: **Leetcode** [click here](https://leetcode.com/mirzonabot/), **Codeforce** [click here](https://codeforces.com/profile/Mirzonabot)
+- Competitive Programming:
+--   **Leetcode** [click here](https://leetcode.com/mirzonabot/),
+--   **Codeforce** [click here](https://codeforces.com/profile/Mirzonabot)
 
 
 
