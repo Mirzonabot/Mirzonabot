@@ -65,4 +65,5 @@ Highly motivated and professional software developer. Specializing in full stack
 - Music
 - Volunteering
 - Volleyball
+- Enterprise Resources Planning 
 
