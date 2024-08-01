@@ -4,6 +4,8 @@
 
 **Email**: mirzonabot.mirzonabotov99@gmail.com
 **LinkedIn**: [Mirzonabot](https://www.linkedin.com/in/mirzonabot-m-407a26180/)
+**Telegram**:
+[click me](t.me/Mirzogit)
 
 
 
