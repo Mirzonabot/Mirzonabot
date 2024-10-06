@@ -38,6 +38,14 @@ Highly motivated and professional software developer. Specializing in full stack
 
 **Bachelor of Science in Computer Science** - University of Central Asia (2018 - 20123)
 
+
+## Learned
+- September 2024                  Docker and containerization
+- August 2024 - September 2024    React and Typescript
+
+## Currently learnig
+- October 2024                    ML Specialization from Deeplearning.ai
+
 ## Projects
 
 **Project 1**: [link to project 1](#)
