@@ -51,12 +51,12 @@ Highly motivated and professional software developer. Specializing in full stack
 **Game hub**: [link to game hub](https://github.com/Mirzonabot/game-hub)
 - This is a project built using react and Typescript for the free api from [Gawg game](https://rawg.io/apidocs) 
 
-**Audio trascription**: [link to whisper intervace](https://github.com/Mirzonabot/WhisperInterface/tree/main)
+**Audio trascription**: [link to whisper interface](https://github.com/Mirzonabot/WhisperInterface/tree/main)
 - This is an application for transcribing audio files using whisper api from openai
 
 ## Certifications
 
-
+- [link to whisper credly](https://www.credly.com/users/username.181d284a/)
 
 ## Languages
 
