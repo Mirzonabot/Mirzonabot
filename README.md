@@ -48,8 +48,8 @@ Highly motivated and professional software developer. Specializing in full stack
 
 ## Projects
 
-**Project 1**: [link to project 1](https://github.com/Mirzonabot/game-hub)
-- Description of project 1
+**Game hub**: [link to game hub](https://github.com/Mirzonabot/game-hub)
+- This is a project built using react and Typescript for the free api from [Gawg game](https://rawg.io/apidocs) 
 
 **Project 2**: [link to project 2](#)
 - Description of project 2
