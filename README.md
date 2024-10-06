@@ -48,7 +48,7 @@ Highly motivated and professional software developer. Specializing in full stack
 
 ## Projects
 
-**Project 1**: [link to project 1](#)
+**Project 1**: [link to project 1](https://github.com/Mirzonabot/game-hub)
 - Description of project 1
 
 **Project 2**: [link to project 2](#)
